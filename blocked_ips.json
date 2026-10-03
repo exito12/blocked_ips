@@ -1,11 +1,11 @@
 {
   "blocked_ips": [
     {
-      "mac": "49fd-16e1-4cd2-953d-ced6c96925b2",
+      "mac": "019e49fd-16e1-4cd2-953d-ced6c96925b2",
       "ip": "112.208.81.236"
     },
     {
-      "mac": "OTRO_ID_ANDROID",
+      "mac": "RTK5.250429.016",
       "ip": "OTRO_IP"
     },
     {
